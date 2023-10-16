@@ -2,7 +2,7 @@
 
 <div align="center">
 
-A passionate Web Developer in the MERN Stack and DevOps learner.
+A passionate Web Developer in the MERN Stack and a DevOps learner.
   
 </div>
 
